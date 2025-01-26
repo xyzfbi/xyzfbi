@@ -3,8 +3,6 @@
 ![doc_2025-01-26_21-38-05 (1) (2)](https://github.com/user-attachments/assets/f18103c3-a161-4688-a54b-f45bdffecf4c)
 
 
-
-<div style="background-image: url('d0b4cb9cf51d43af74ec134dd39dad7e.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px; font-weight: bold;">
-  Добро пожаловать!
+<div style="background-image: url('d0b4cb9cf51d43af74ec134dd39dad7e.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center;">
+  <h1 style="color: white;">Добро пожаловать!</h1>
 </div>
-
