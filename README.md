@@ -8,5 +8,5 @@ Hi 👋 My name is Maksim
 Im beginner backend/software developer, just wanna get an internship at Yandex
 -----------------------------------------------------------------
 
-Ive started coding in a school begin from Python. Now im studing in HSE university, 1 course, Moscow at Information Science and Computation Technology and learning C/C++. There is some of my labs, practise
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+Ive started coding in a school begin from Python. Now im studing in HSE university, 1 course, Moscow at Information Science and Computation Technology and learning C/C++. There is some of my labs and practise in algoritms.
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xyzfbi)](https://git.io/streak-stats)
