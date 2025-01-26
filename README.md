@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sixtyfour+Convergence&weight=500&size=50&pause=1000&color=510095&background=FF151500&width=600&height=90&lines=JUST+WANNA+GET+TO+YANDEX+INTERSHIP.+HSE+GANG)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://fonts.googleapis.com/css2?family=Schoolbell&display=swap" rel="stylesheet">
+  <span style="font-family: 'Schoolbell', cursive; font-size: 24px;">
+    Just wanna get applied for Yandex internship
+  </span>
+</p>
 
 JUST WANNA GET TO YANDEX INTERSHIP. HSE
 
