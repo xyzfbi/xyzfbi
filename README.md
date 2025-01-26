@@ -11,7 +11,7 @@
         body {
             margin: 0;
             padding: 0;
-            background-image: url('photo.jpg');
+            background-image: url('d0b4cb9cf51d43af74ec134dd39dad7e.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
