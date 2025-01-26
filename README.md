@@ -2,3 +2,5 @@
 
 
 ![doc_2025-01-26_21-38-05 (1)](https://github.com/user-attachments/assets/50327103-89bb-4051-9fc9-6291ad514ead)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/xyzfbi/github-profile-trophy)
