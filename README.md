@@ -4,6 +4,6 @@
 ============================
 ![xyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=jolly)
 ![1ef46c08a748500095ff7fb246e595ca (1)](https://github.com/user-attachments/assets/99cbf853-dfe4-4983-b05d-6f9b0ad04b30)
-
+![fb14aee3cc6f979df7f5df2e9f473891 (1)](https://github.com/user-attachments/assets/66c96f5b-8e1b-48b6-9fe2-b474c3004390)
 =======================================================================================================================================
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)
