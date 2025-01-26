@@ -6,13 +6,13 @@
 ![1ef46c08a748500095ff7fb246e595ca (1) (1)](https://github.com/user-attachments/assets/1d78ec9e-078b-4424-bafe-10feeb4d687b)
 ![fb14aee3cc6f979df7f5df2e9f473891 (3) (1) (1)](https://github.com/user-attachments/assets/331376d3-0b72-437b-bc55-55e270f61211)
 =======================================================================================================================================
-### :hammer_and_wrench: Languages and Tools :
 <div align="right">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi" alt="Top Langs">
     </a>
 </div>
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
