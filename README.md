@@ -6,5 +6,5 @@
 ![1ef46c08a748500095ff7fb246e595ca (1) (1)](https://github.com/user-attachments/assets/1d78ec9e-078b-4424-bafe-10feeb4d687b)
 ![fb14aee3cc6f979df7f5df2e9f473891 (3) (1) (1)](https://github.com/user-attachments/assets/331376d3-0b72-437b-bc55-55e270f61211)
 =======================================================================================================================================
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)
+
