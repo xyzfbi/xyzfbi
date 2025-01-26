@@ -4,5 +4,5 @@
 =============================================================================================================================================
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)
 ![1ef46c08a748500095ff7fb246e595ca (2)](https://github.com/user-attachments/assets/b504a090-081a-412b-a7e4-3795c0e148b2)
-![xyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=radical)
+![xyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=jolly)
 =======================================================================================================================================
