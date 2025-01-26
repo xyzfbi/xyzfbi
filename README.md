@@ -3,7 +3,7 @@
 ![doc_2025-01-26_21-38-05 (1)](https://github.com/user-attachments/assets/08726eab-be8b-4650-9f1f-b3ee1b3a43cb)
 =============================================================================================================================
 ![xyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyz&show_icons=true&theme=jolly)
-![1ef46c08a748500095ff7fb246e595ca (1) (1)](https://github.com/user-attachments/assets/1d78ec9e-078b-4424-bafe-10feeb4d687b)
+![fb14aee3cc6f979df7f5df2e9f473891 (3) (2)](https://github.com/user-attachments/assets/8138102b-ed7c-41ee-b483-e0a1da8b22b3)
 ![fb14aee3cc6f979df7f5df2e9f473891 (3) (1) (1) (1)](https://github.com/user-attachments/assets/eececc88-5e98-4202-aa22-a2b732c48cbe)
 =======================================================================================================================================
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
