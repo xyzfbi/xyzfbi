@@ -4,5 +4,5 @@
 
 
 <div style="background-image: url('d0b4cb9cf51d43af74ec134dd39dad7e.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center;">
-  <h1 style="color: white;">Добро пожаловать!</h1>
+
 </div>
