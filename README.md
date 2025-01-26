@@ -3,4 +3,7 @@
 ![doc_2025-01-26_21-38-05 (1)](https://github.com/user-attachments/assets/c4406f6a-ecf5-4ace-8dcb-969beec075dc)
 
 
-![d0b4cb9cf51d43af74ec134dd39dad7e](https://github.com/user-attachments/assets/7638b4fb-2452-4155-98d0-7655320c0ee0)
+<div style="background-image: url('d0b4cb9cf51d43af74ec134dd39dad7e.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; color: white; font-size: 24px; font-weight: bold;">
+  Добро пожаловать!
+</div>
+
