@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=Just+a+beginner+in+C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=50&pause=1000&color=4E42F7&background=FF151500&width=435&lines=JUST+WANNA+GET+TO+YANDEX+INTERSHIP.+HSE)](https://git.io/typing-svg)
 
 JUST WANNA GET TO YANDEX INTERSHIP. HSE
 
