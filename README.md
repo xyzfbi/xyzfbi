@@ -8,7 +8,7 @@
 =======================================================================================================================================
 ### :hammer_and_wrench: Languages and Tools :        
 <div align="right">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi)](https://github.com/anuraghazra/github-readme-stats)]
 </div>
 
 
