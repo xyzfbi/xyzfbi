@@ -21,7 +21,7 @@
       </div>
     </td>
     <td align="right">
-      <a href="https://github.com/xyzfbi/github-readme-stats">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi" alt="Top Langs">
       </a>
     </td>
