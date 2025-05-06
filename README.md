@@ -27,4 +27,4 @@
     </td>
   </tr>
 </table>
-![LeetCode Stats](https://leetcard.jacoblin.cool/xyzfbi?theme=unicorn&font=Waiting%20for%20the%20Sunrise)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/xyzfbi?theme=unicorn&font=Waiting%20for%20the%20Sunrise)]
