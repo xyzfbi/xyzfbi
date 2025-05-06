@@ -27,4 +27,4 @@
     </td>
   </tr>
 </table>
-![LeetCode Stats](https://leetcode.card.workers.dev/xyzfbi?theme=dark&font=baloo&extension=activity)>
+![LeetCode Stats](https://leetcode.card.workers.dev/xyzfbi?theme=dark&font=baloo&extension=activity)
