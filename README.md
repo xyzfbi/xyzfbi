@@ -25,7 +25,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyzfbi" alt="Top Langs">
       </a>
     </td>
-    <a ![LeetCode Stats](https://leetcode.card.workers.dev/xyzfbi?theme=dark&font=baloo&extension=activity)>
   </tr>
 </table>
-![](https://leetcard.jacoblin.cool/xyzfbi?theme=unicorn)
+![LeetCode Stats](https://leetcode.card.workers.dev/xyzfbi?theme=dark&font=baloo&extension=activity)>
