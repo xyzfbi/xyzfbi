@@ -5,7 +5,7 @@
 ![xyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyzfbi&show_icons=true&theme=jolly)
 ![1ef46c08a748500095ff7fb246e595ca (1) (1) (1)](https://github.com/user-attachments/assets/cc3b4757-68be-46eb-b5e6-8336c4d55a81)
 ![fb14aee3cc6f979df7f5df2e9f473891 (3) (2) (1)](https://github.com/user-attachments/assets/a0ecc22b-b39f-4cac-b5b0-5cf21c5a8aec)
-![LeetCode Stats](https://leetcard.jacoblin.cool/xyzfbi?theme=dark&&width=500&height=100)
+![LeetCode Stats](https://leetcard.jacoblin.cool/xyzfbi?theme=dark&&width=1186.8)
 =======================================================================================================================================
 <html>
 <h3 align="left">:hammer_and_wrench: Languages and Tools :</h3>
